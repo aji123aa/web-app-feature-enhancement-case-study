@@ -10,29 +10,93 @@
 
 
 
+*## Project Purpose*
+
+
+
+*The purpose of this repository is to document and demonstrate practical feature enhancement work in a safe and professional format. Each feature is recreated as a generic demo using mock data, simplified logic, and non-confidential naming.*
+
+
+
 *## Features Covered*
 
 
 
-*1. Profile Photo Cropper*  
+*| No. | Feature | Description |*
 
-*2. Comment Edit and Delete*  
+*| --- | --- | --- |*
 
-*3. Exit Confirmation Card*  
+*| 01 | \[Profile Photo Cropper](./01-profile-photo-cropper) | Demo for cropping, zooming, repositioning, and saving a square profile image. |*
 
-*4. Content Scheduling*  
+*| 02 | \[Comment Edit and Delete](./02-comment-edit-delete) | Demo for editing and deleting user-owned comments. |*
 
-*5. KPI Dashboard Cards*  
+*| 03 | \[Exit Confirmation Card](./03-exit-confirmation-card) | Demo for preventing accidental exit when unsaved changes exist. |*
 
-*6. Mention Input*  
+*| 04 | \[Content Scheduling](./04-content-scheduling) | Demo for saving content as draft, publishing immediately, or scheduling for later. |*
 
-*7. Availability Slot Overlap Validation*  
+*| 05 | \[KPI Dashboard Cards](./05-kpi-dashboard-cards) | Demo for displaying content-related dashboard statistics. |*
 
-*8. Availability Rules*  
+*| 06 | \[Mention Input](./06-mention-input) | Demo for typing `@` and selecting users from a suggestion list. |*
 
-*9. Consultation Workflow Analysis*  
+*| 07 | \[Availability Slot Overlap Validation](./07-slot-overlap-validation) | Demo for preventing duplicate and overlapping availability slots. |*
 
-*10. One-to-One Consultation Enhancement Demo*  
+*| 08 | \[Availability Rules](./08-availability-rules) | Demo for validating booking slots using availability rules, limits, notice period, visibility window, and buffer time. |*
+
+*| 09 | \[Consultation Workflow Analysis](./09-consultation-workflow-analysis) | Documentation of a generic one-to-one consultation booking workflow. |*
+
+*| 10 | \[One-to-One Consultation Enhancements](./10-one-to-one-consultation-enhancements) | Demo for consultant review, additional details, meeting readiness, code of conduct, and follow-up flow. |*
+
+
+
+*## Key Skills Demonstrated*
+
+
+
+*- React component development*
+
+*- JavaScript utility function design*
+
+*- Form validation*
+
+*- Conditional rendering*
+
+*- Mock API handling*
+
+*- State management*
+
+*- Content management workflows*
+
+*- Scheduling and availability validation*
+
+*- Product flow analysis*
+
+*- Functional documentation*
+
+*- UI/UX improvement thinking*
+
+*- Git and GitHub workflow*
+
+
+
+*## Tech Concepts Used*
+
+
+
+*- React*
+
+*- JavaScript*
+
+*- HTML Canvas API*
+
+*- Client-side validation*
+
+*- Date and time handling*
+
+*- Mock asynchronous operations*
+
+*- Reusable component structure*
+
+*- Workflow-based logic design*
 
 
 
@@ -44,5 +108,5 @@
 
 
 
-*All implementations are recreated demo versions using generic naming, mock data, and simplified logic.*
+*All implementations are recreated demo versions using generic naming, mock data, and simplified logic based on internship learning.*
 
